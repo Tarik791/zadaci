@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 try:
   # Definišemo listu cijelih brojeva
   numberList = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
